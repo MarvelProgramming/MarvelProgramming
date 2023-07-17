@@ -1,6 +1,6 @@
 <p style="align:center;"><img alt="Static" src="https://img.shields.io/badge/programmer-161b22?style=flat&logo=git&logoColor=FFFFFF&link=https%3A%2F%2Fgithub.com%2FMarvelProgramming"/> <img alt="Static" src="https://img.shields.io/badge/modder-397FAF?style=flat&logo=gamedeveloper&logoColor=FFFFFF&link=https%3A%2F%2Fwww.nexusmods.com%2Fusers%2Fmyaccount%3Ftab%3Dfiles"/> <img alt="Static" src="https://img.shields.io/badge/gamer-44AF39?style=flat&logo=gameandwatch&logoColor=FFFFFF"/></p>
 
-Hi! I'm Marvel and I frequently write code, program, and play video games.
+Hi! I'm Marvel and I frequently write code as well as modify and play video games.
 
 
 
